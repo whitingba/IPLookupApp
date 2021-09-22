@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="IPAddress Info" language="en" table="x_464482_iplookup_ipaddress_info">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IPAddress Info</label>
+            <language>en</language>
+            <name>x_464482_iplookup_ipaddress_info</name>
+            <plural>IPAddress Infos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-22 20:12:48</sys_created_on>
+            <sys_id>5001d8891b723010b10ca9f6624bcbba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IPAddress Info</sys_name>
+            <sys_package display_value="IPLookup" source="x_464482_iplookup">53c08e5c1bb23010b10ca9f6624bcbb3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">53c08e5c1bb23010b10ca9f6624bcbb3</sys_scope>
+            <sys_update_name>sys_documentation_x_464482_iplookup_ipaddress_info__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-22 20:12:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
